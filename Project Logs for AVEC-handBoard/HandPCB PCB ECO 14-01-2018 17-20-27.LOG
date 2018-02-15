@@ -1,0 +1,134 @@
+Removed Pin From Net: NetName=SW_COMM Pin=C4-1
+Removed Pin From Net: NetName=SW_COMM Pin=C12-1
+Removed Pin From Net: NetName=POS3V3 Pin=C12-2
+Removed Pin From Net: NetName=NetC5_U_LMR14050_mod2_1 Pin=C14-1
+Removed Pin From Net: NetName=SW_COMM Pin=C16-1
+Removed Pin From Net: NetName=VCC Pin=C16-2
+Removed Pin From Net: NetName=SW_COMM Pin=C20-1
+Removed Pin From Net: NetName=VCC Pin=C20-2
+Removed Pin From Net: NetName=VCC Pin=C22-1
+Removed Pin From Net: NetName=SW_COMM Pin=C22-2
+Removed Pin From Net: NetName=SW_COMM Pin=R7-1
+Removed Pin From Net: NetName=SW_COMM Pin=R11-1
+Removed Pin From Net: NetName=VCC Pin=R13-2
+Removed Member From Class: ClassName=U_POS12V Member=C2
+Removed Member From Class: ClassName=U_LMR14050_mod2 Member=C4
+Removed Member From Class: ClassName=U_LMR14050_mod1 Member=C9
+Removed Member From Class: ClassName=U_POS12V Member=C9
+Removed Member From Class: ClassName=U_LMR14050_mod2 Member=C12
+Removed Member From Class: ClassName=U_LMR14050_mod2 Member=C14
+Removed Member From Class: ClassName=U_LMR14050_mod1 Member=C17
+Removed Member From Class: ClassName=U_LMR14050_mod2 Member=R7
+Removed Member From Class: ClassName=U_POS5V Member=R9
+Change Component Footprint: Designator=C16 Old Footprint=C0805 New Footprint=CAP_EEFK_D8
+Change Component Footprint: Designator=C22 Old Footprint=CAP_EEFK_D8 New Footprint=C0805
+Change Component Comment : Designator=C16 Old Comment=Cap New Comment=EEEFK1V680XP
+Change Component Comment : Designator=C22 Old Comment=EEEFK1V680XP New Comment=Cap
+Change Component Designator: OldDesignator=C1 NewDesignator=C9
+Change Component Designator: OldDesignator=C2 NewDesignator=C8
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C5 NewDesignator=C11
+Change Component Designator: OldDesignator=C6 NewDesignator=C14
+Change Component Designator: OldDesignator=C7 NewDesignator=C12
+Change Component Designator: OldDesignator=C8 NewDesignator=C15
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C13
+Change Component Designator: OldDesignator=C11 NewDesignator=C6
+Change Component Designator: OldDesignator=C13 NewDesignator=C5
+Change Component Designator: OldDesignator=C15 NewDesignator=C2
+Change Component Designator: OldDesignator=C17 NewDesignator=C3
+Change Component Designator: OldDesignator=C19 NewDesignator=C4
+Change Component Designator: OldDesignator=C21 NewDesignator=C1
+Change Component Designator: OldDesignator=P1 NewDesignator=P5
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P1
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=R1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2 NewDesignator=R10
+Change Component Designator: OldDesignator=R3 NewDesignator=R7
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R9
+Change Component Designator: OldDesignator=R6 NewDesignator=R3
+Change Component Designator: OldDesignator=R8 NewDesignator=R5
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R2
+Change Component Designator: OldDesignator=R12 NewDesignator=R1
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change component parameters: Designator = "R11"; Footprint = "R0805"; UniqueID = "\UXBONWJB\OGANCDAX\CMEESGOH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "R0805"; UniqueID = "\UXBONWJB\OGANCDAX\QKEFTRCW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16"; Footprint = "CAP_EEFK_D8"; UniqueID = "\UXBONWJB\OGANCDAX\YOOESHNC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "C0805"; UniqueID = "\UXBONWJB\OGANCDAX\ERADLCPW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C16-1
+Added Pin To Net: NetName=SW_COMM Pin=C16-2
+Added Pin To Net: NetName=SW_COMM Pin=C17-1
+Added Pin To Net: NetName=VCC Pin=C17-2
+Added Pin To Net: NetName=SW_COMM Pin=C19-1
+Added Pin To Net: NetName=VCC Pin=C19-2
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod2_1 Pin=C20-1
+Added Pin To Net: NetName=SW_COMM Pin=C21-1
+Added Pin To Net: NetName=POS3V3 Pin=C21-2
+Added Pin To Net: NetName=SW_COMM Pin=C22-1
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Pin To Net: NetName=SW_COMM Pin=R12-1
+Added Pin To Net: NetName=SW_COMM Pin=R13-1
+Change Net Name : Old Net Name=NetC5_U_LMR14050_mod1_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetC5_U_LMR14050_mod1_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC5_U_LMR14050_mod2_1 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetC7_U_LMR14050_mod1_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetR1_U_LMR14050_mod1_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR3_U_LMR14050_mod1_2 New Net Name=NetR3_2
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=U3-1
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=U3-6
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R12-2
+Added Pin To Net: NetName=NetR11_1 Pin=U3-3
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U3-4
+Added Net: Name=NetR13_2
+Change Class Name : Old Net Name=U_LMR14050_mod1 New Net Name=U_LMR14050_mod
+Added Member To Class: ClassName=U_LMR14050_mod Member=Component C6 Cap
+Added Member To Class: ClassName=U_LMR14050_mod Member=Component C7 Cap
+Added Member To Class: ClassName=U_POS12V Member=Component C13 EEEFK1V680XP
+Added Member To Class: ClassName=U_POS12V Member=Component C15 Cap
+Added Member To Class: ClassName=U_LMR14050_mod2 Member=Component C17 Cap
+Added Member To Class: ClassName=U_LMR14050_mod2 Member=Component C19 Cap
+Added Member To Class: ClassName=U_LMR14050_mod2 Member=Component C21 Cap
+Added Member To Class: ClassName=U_POS5V Member=Component R5 Res
+Added Member To Class: ClassName=U_LMR14050_mod2 Member=Component R12 Res
+Added Room: Name=Main
+Added Room: Name=U_LMR14050_mod

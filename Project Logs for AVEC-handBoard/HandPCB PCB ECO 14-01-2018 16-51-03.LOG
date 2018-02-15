@@ -1,0 +1,457 @@
+Added Component: Designator=C1_U_LMR14050_mod1(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C1_U_LMR14050_mod2(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_LMR14050_mod1(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C2_U_LMR14050_mod2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_LMR14050_mod1(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C3_U_LMR14050_mod2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_LMR14050_mod1(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C4_U_LMR14050_mod2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_LMR14050_mod1(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C5_U_LMR14050_mod2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_LMR14050_mod1(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C6_U_LMR14050_mod2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1µF"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_LMR14050_mod1(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Component: Designator=C7_U_LMR14050_mod2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP_EEFK_D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEEFK1V680XP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P18960DKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "82uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Panasonic"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_LMR14050_mod1(ONSC-DPAK-3-369C-01_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MBRD835L-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/369C.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Flange Mount, Body 6.54 x 6.095 mm, Pitch 2.29 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DPAK-3-369C-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. E, 02/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MBRD835LG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Added Component: Designator=D1_U_LMR14050_mod2(ONSC-DPAK-3-369C-01_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/MBRD835L-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/369C.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM Max (A)"; Value = "75"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Flange Mount, Body 6.54 x 6.095 mm, Pitch 2.29 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DPAK-3-369C-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. E, 02/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MBRD835LG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Added Component: Designator=L1_U_LMR14050_mod1(IHLP-2525C7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-2580-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3µH"; VariantName = "[No Variations]"
+Added Component: Designator=L1_U_LMR14050_mod2(IHLP-2525C7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "541-2580-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.3µH"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X3H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X6H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X6H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR2X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR1X2H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(DIOD-SOT23F-3_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "IntegratedCircuits(ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output (Max)"; Value = "1.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/15109/getdatasheetpartid-411522-15109086.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 6-2, 10/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "PMIC-PowerDistributionSwitches,LoadDrivers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fault Protection"; Value = "CurrentLimiting(Fixed),OverTemperature,OverVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "ZXMS6004FF60VN-ChannelMOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "AutoRestart"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "On/Off"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.diodes.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C~150°C(TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "ZXMS6004FFTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "LowSide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOT-23-3FlatLeads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor Flat Lead, Body 2.9 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT23F-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCN Design/Specification"; Value = "PartMarkingUpdate25/Sep/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "IntelliFET's"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratio - Input"; Value = "Output:1:1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Typ)"; Value = "350mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "RoHSCertofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Automotive,AEC-Q101,INTELLIFET®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "3,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Type"; Value = "GeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Load"; Value = "60V(Max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply (Vcc/Vdd)"; Value = "3.3V,5V"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_LMR14050_mod1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Added Component: Designator=R1_U_LMR14050_mod2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_LMR14050_mod1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2_U_LMR14050_mod2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_LMR14050_mod1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Added Component: Designator=R3_U_LMR14050_mod2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "15k"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "15k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "820"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_LMR14050_mod1(DDA8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMR14050SDDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-41103-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Component: Designator=U1_U_LMR14050_mod2(DDA8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMR14050SDDAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-41103-5-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TSSOP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "568-3392-6-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN Pin=P2-2
+Added Pin To Net: NetName=EN Pin=P4-11
+Added Net: Name=EN
+Added Pin To Net: NetName=I2C_SCL Pin=P2-4
+Added Pin To Net: NetName=I2C_SCL Pin=P4-5
+Added Pin To Net: NetName=I2C_SCL Pin=U2-6
+Added Net: Name=I2C_SCL
+Added Pin To Net: NetName=I2C_SDA Pin=P2-5
+Added Pin To Net: NetName=I2C_SDA Pin=P4-3
+Added Pin To Net: NetName=I2C_SDA Pin=U2-7
+Added Net: Name=I2C_SDA
+Added Pin To Net: NetName=LED_B Pin=P3-4
+Added Pin To Net: NetName=LED_B Pin=U2-2
+Added Net: Name=LED_B
+Added Pin To Net: NetName=LED_COMM Pin=P3-6
+Added Pin To Net: NetName=LED_COMM Pin=R4-2
+Added Net: Name=LED_COMM
+Added Pin To Net: NetName=LED_G Pin=P3-5
+Added Pin To Net: NetName=LED_G Pin=U2-1
+Added Net: Name=LED_G
+Added Pin To Net: NetName=LED_R Pin=P3-3
+Added Pin To Net: NetName=LED_R Pin=U2-3
+Added Net: Name=LED_R
+Added Pin To Net: NetName=MODE Pin=P2-3
+Added Pin To Net: NetName=MODE Pin=P4-7
+Added Net: Name=MODE
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod1_1 Pin=C5_U_LMR14050_mod1-1
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod1_1 Pin=D1_U_LMR14050_mod1-4
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod1_1 Pin=L1_U_LMR14050_mod1-1
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod1_1 Pin=U1_U_LMR14050_mod1-8
+Added Net: Name=NetC5_U_LMR14050_mod1_1
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod1_2 Pin=C5_U_LMR14050_mod1-2
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod1_2 Pin=U1_U_LMR14050_mod1-1
+Added Net: Name=NetC5_U_LMR14050_mod1_2
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod2_1 Pin=C5_U_LMR14050_mod2-1
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod2_1 Pin=D1_U_LMR14050_mod2-4
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod2_1 Pin=L1_U_LMR14050_mod2-1
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod2_1 Pin=U1_U_LMR14050_mod2-8
+Added Net: Name=NetC5_U_LMR14050_mod2_1
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod2_2 Pin=C5_U_LMR14050_mod2-2
+Added Pin To Net: NetName=NetC5_U_LMR14050_mod2_2 Pin=U1_U_LMR14050_mod2-1
+Added Net: Name=NetC5_U_LMR14050_mod2_2
+Added Pin To Net: NetName=NetC7_U_LMR14050_mod1_2 Pin=C7_U_LMR14050_mod1-2
+Added Pin To Net: NetName=NetC7_U_LMR14050_mod1_2 Pin=U1_U_LMR14050_mod1-6
+Added Net: Name=NetC7_U_LMR14050_mod1_2
+Added Pin To Net: NetName=NetC7_U_LMR14050_mod2_2 Pin=C7_U_LMR14050_mod2-2
+Added Pin To Net: NetName=NetC7_U_LMR14050_mod2_2 Pin=U1_U_LMR14050_mod2-6
+Added Net: Name=NetC7_U_LMR14050_mod2_2
+Added Pin To Net: NetName=NetP4_13 Pin=P4-13
+Added Pin To Net: NetName=NetP4_13 Pin=Q1-1
+Added Net: Name=NetP4_13
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=Q1-3
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=NetR1_U_LMR14050_mod1_1 Pin=R1_U_LMR14050_mod1-1
+Added Pin To Net: NetName=NetR1_U_LMR14050_mod1_1 Pin=R2_U_LMR14050_mod1-2
+Added Pin To Net: NetName=NetR1_U_LMR14050_mod1_1 Pin=U1_U_LMR14050_mod1-3
+Added Net: Name=NetR1_U_LMR14050_mod1_1
+Added Pin To Net: NetName=NetR1_U_LMR14050_mod2_1 Pin=R1_U_LMR14050_mod2-1
+Added Pin To Net: NetName=NetR1_U_LMR14050_mod2_1 Pin=R2_U_LMR14050_mod2-2
+Added Pin To Net: NetName=NetR1_U_LMR14050_mod2_1 Pin=U1_U_LMR14050_mod2-3
+Added Net: Name=NetR1_U_LMR14050_mod2_1
+Added Pin To Net: NetName=NetR3_U_LMR14050_mod1_2 Pin=R3_U_LMR14050_mod1-2
+Added Pin To Net: NetName=NetR3_U_LMR14050_mod1_2 Pin=U1_U_LMR14050_mod1-4
+Added Net: Name=NetR3_U_LMR14050_mod1_2
+Added Pin To Net: NetName=NetR3_U_LMR14050_mod2_2 Pin=R3_U_LMR14050_mod2-2
+Added Pin To Net: NetName=NetR3_U_LMR14050_mod2_2 Pin=U1_U_LMR14050_mod2-4
+Added Net: Name=NetR3_U_LMR14050_mod2_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=R7-2
+Added Pin To Net: NetName=NetR6_1 Pin=U1_U_LMR14050_mod1-5
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-2
+Added Pin To Net: NetName=NetR9_1 Pin=U1_U_LMR14050_mod2-5
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=POS3V3 Pin=C6_U_LMR14050_mod1-2
+Added Pin To Net: NetName=POS3V3 Pin=C6_U_LMR14050_mod2-2
+Added Pin To Net: NetName=POS3V3 Pin=C10-1
+Added Pin To Net: NetName=POS3V3 Pin=C11-2
+Added Pin To Net: NetName=POS3V3 Pin=C12-2
+Added Pin To Net: NetName=POS3V3 Pin=C13-1
+Added Pin To Net: NetName=POS3V3 Pin=C14-2
+Added Pin To Net: NetName=POS3V3 Pin=C15-2
+Added Pin To Net: NetName=POS3V3 Pin=L1_U_LMR14050_mod1-2
+Added Pin To Net: NetName=POS3V3 Pin=L1_U_LMR14050_mod2-2
+Added Pin To Net: NetName=POS3V3 Pin=R5-2
+Added Pin To Net: NetName=POS3V3 Pin=R6-2
+Added Pin To Net: NetName=POS3V3 Pin=R8-2
+Added Pin To Net: NetName=POS3V3 Pin=R9-2
+Added Net: Name=POS3V3
+Added Pin To Net: NetName=POS5V Pin=C8-1
+Added Pin To Net: NetName=POS5V Pin=C9-1
+Added Pin To Net: NetName=POS5V Pin=P2-1
+Added Pin To Net: NetName=POS5V Pin=P4-2
+Added Pin To Net: NetName=POS5V Pin=U2-8
+Added Net: Name=POS5V
+Added Pin To Net: NetName=POS12V Pin=P5-1
+Added Net: Name=POS12V
+Added Pin To Net: NetName=SW_COMM Pin=C1_U_LMR14050_mod1-2
+Added Pin To Net: NetName=SW_COMM Pin=C1_U_LMR14050_mod2-2
+Added Pin To Net: NetName=SW_COMM Pin=C2_U_LMR14050_mod1-1
+Added Pin To Net: NetName=SW_COMM Pin=C2_U_LMR14050_mod2-1
+Added Pin To Net: NetName=SW_COMM Pin=C3_U_LMR14050_mod1-1
+Added Pin To Net: NetName=SW_COMM Pin=C3_U_LMR14050_mod2-1
+Added Pin To Net: NetName=SW_COMM Pin=C4_U_LMR14050_mod1-1
+Added Pin To Net: NetName=SW_COMM Pin=C4_U_LMR14050_mod2-1
+Added Pin To Net: NetName=SW_COMM Pin=C6_U_LMR14050_mod1-1
+Added Pin To Net: NetName=SW_COMM Pin=C6_U_LMR14050_mod2-1
+Added Pin To Net: NetName=SW_COMM Pin=C7_U_LMR14050_mod1-1
+Added Pin To Net: NetName=SW_COMM Pin=C7_U_LMR14050_mod2-1
+Added Pin To Net: NetName=SW_COMM Pin=C8-2
+Added Pin To Net: NetName=SW_COMM Pin=C9-2
+Added Pin To Net: NetName=SW_COMM Pin=C10-2
+Added Pin To Net: NetName=SW_COMM Pin=C11-1
+Added Pin To Net: NetName=SW_COMM Pin=C12-1
+Added Pin To Net: NetName=SW_COMM Pin=C13-2
+Added Pin To Net: NetName=SW_COMM Pin=C14-1
+Added Pin To Net: NetName=SW_COMM Pin=C15-1
+Added Pin To Net: NetName=SW_COMM Pin=D1_U_LMR14050_mod1-1
+Added Pin To Net: NetName=SW_COMM Pin=D1_U_LMR14050_mod1-3
+Added Pin To Net: NetName=SW_COMM Pin=D1_U_LMR14050_mod2-1
+Added Pin To Net: NetName=SW_COMM Pin=D1_U_LMR14050_mod2-3
+Added Pin To Net: NetName=SW_COMM Pin=P1-3
+Added Pin To Net: NetName=SW_COMM Pin=P2-6
+Added Pin To Net: NetName=SW_COMM Pin=P3-2
+Added Pin To Net: NetName=SW_COMM Pin=P4-6
+Added Pin To Net: NetName=SW_COMM Pin=Q1-2
+Added Pin To Net: NetName=SW_COMM Pin=R2_U_LMR14050_mod1-1
+Added Pin To Net: NetName=SW_COMM Pin=R2_U_LMR14050_mod2-1
+Added Pin To Net: NetName=SW_COMM Pin=R3_U_LMR14050_mod1-1
+Added Pin To Net: NetName=SW_COMM Pin=R3_U_LMR14050_mod2-1
+Added Pin To Net: NetName=SW_COMM Pin=R4-1
+Added Pin To Net: NetName=SW_COMM Pin=R5-1
+Added Pin To Net: NetName=SW_COMM Pin=R7-1
+Added Pin To Net: NetName=SW_COMM Pin=R8-1
+Added Pin To Net: NetName=SW_COMM Pin=R10-1
+Added Pin To Net: NetName=SW_COMM Pin=U1_U_LMR14050_mod1-7
+Added Pin To Net: NetName=SW_COMM Pin=U1_U_LMR14050_mod2-7
+Added Pin To Net: NetName=SW_COMM Pin=U2-4
+Added Net: Name=SW_COMM
+Added Pin To Net: NetName=SW_NO Pin=P1-2
+Added Pin To Net: NetName=SW_NO Pin=P3-1
+Added Net: Name=SW_NO
+Added Pin To Net: NetName=VCC Pin=C1_U_LMR14050_mod1-1
+Added Pin To Net: NetName=VCC Pin=C1_U_LMR14050_mod2-1
+Added Pin To Net: NetName=VCC Pin=C2_U_LMR14050_mod1-2
+Added Pin To Net: NetName=VCC Pin=C2_U_LMR14050_mod2-2
+Added Pin To Net: NetName=VCC Pin=C3_U_LMR14050_mod1-2
+Added Pin To Net: NetName=VCC Pin=C3_U_LMR14050_mod2-2
+Added Pin To Net: NetName=VCC Pin=C4_U_LMR14050_mod1-2
+Added Pin To Net: NetName=VCC Pin=C4_U_LMR14050_mod2-2
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=R1_U_LMR14050_mod1-2
+Added Pin To Net: NetName=VCC Pin=R1_U_LMR14050_mod2-2
+Added Pin To Net: NetName=VCC Pin=U1_U_LMR14050_mod1-2
+Added Pin To Net: NetName=VCC Pin=U1_U_LMR14050_mod2-2
+Added Net: Name=VCC
+Added Class: Name=Main
+Added Class: Name=U_LMR14050_mod1
+Added Class: Name=U_LMR14050_mod2
+Added Class: Name=U_POS5V
+Added Class: Name=U_POS12V
+Added Class: Name=LMR14050_mod
+Added Room: Name=Main
+Added Room: Name=U_LMR14050_mod1
+Added Room: Name=U_LMR14050_mod2
+Added Room: Name=U_POS5V
+Added Room: Name=U_POS12V

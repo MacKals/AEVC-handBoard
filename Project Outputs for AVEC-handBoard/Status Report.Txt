@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [AVEC-handBoard.PrjPcb]
+   Generated File[HandPCB.TXT]
+   Generated File[HandPCB.LDP]
+   Generated File[HandPCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:41:02 On 14/01/2018

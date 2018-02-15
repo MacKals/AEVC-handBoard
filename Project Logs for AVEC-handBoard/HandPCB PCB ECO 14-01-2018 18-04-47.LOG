@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=POS3V3 Pin=C13-1
+Removed Pin From Net: NetName=SW_COMM Pin=C13-2
+Removed Pin From Net: NetName=SW_COMM Pin=C14-1
+Removed Pin From Net: NetName=POS3V3 Pin=C14-2
+Removed Pin From Net: NetName=SW_COMM Pin=C15-1
+Removed Pin From Net: NetName=POS3V3 Pin=C15-2
+Removed Pin From Net: NetName=VCC Pin=C16-1
+Removed Pin From Net: NetName=SW_COMM Pin=C16-2
+Removed Pin From Net: NetName=SW_COMM Pin=C17-1
+Removed Pin From Net: NetName=VCC Pin=C17-2
+Removed Pin From Net: NetName=SW_COMM Pin=C18-1
+Removed Pin From Net: NetName=VCC Pin=C18-2
+Removed Pin From Net: NetName=SW_COMM Pin=C19-1
+Removed Pin From Net: NetName=VCC Pin=C19-2
+Removed Pin From Net: NetName=SW_COMM Pin=C21-1
+Removed Pin From Net: NetName=POS3V3 Pin=C21-2
+Removed Pin From Net: NetName=SW_COMM Pin=C22-1
+Removed Pin From Net: NetName=SW_COMM Pin=D2-1
+Removed Pin From Net: NetName=SW_COMM Pin=D2-3
+Removed Pin From Net: NetName=POS3V3 Pin=L2-2
+Removed Pin From Net: NetName=SW_COMM Pin=R8-1
+Removed Pin From Net: NetName=POS3V3 Pin=R8-2
+Removed Pin From Net: NetName=POS3V3 Pin=R9-2
+Removed Pin From Net: NetName=SW_COMM Pin=R10-1
+Removed Pin From Net: NetName=VCC Pin=R11-2
+Removed Pin From Net: NetName=SW_COMM Pin=R12-1
+Removed Pin From Net: NetName=SW_COMM Pin=R13-1
+Removed Pin From Net: NetName=VCC Pin=U3-2
+Removed Pin From Net: NetName=SW_COMM Pin=U3-7
+Added Component: Designator=R?(MP915)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MP915-40.0F-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=R?-1
+Added Net: Name=NetP5_1
+Added Member To Class: ClassName=Main Member=Component R? Power Resistor
+Change Room Name: Old Name=U_POS12V New Name=Main
+Change Room Scope: Old Scope=InComponentClass('U_POS12V') New Scope=InComponentClass('Main')
